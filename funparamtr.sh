@@ -6,5 +6,6 @@ echo "Output:"$c
 }
 add 10 25
 
-this is ganesh
-creatind conflict in local server
+This is student branch
+I am creating conflict in student branch in remote server
+
